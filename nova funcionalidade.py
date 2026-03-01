@@ -1,1 +1,1 @@
-print('Nova funcionalidade ativa')
+print('Nova funcionallidade')
